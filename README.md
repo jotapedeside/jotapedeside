@@ -1,21 +1,24 @@
-###
 <div align="center">
   <h1>jotapedeside</h1>
   <h3>😎 Software Engineer & Music Lover, Brazil 🌎</h3><br>
 </div>
 
-<div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=false&username=jotapedeside" height="149" alt="My Languages Graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jotapedeside" height="149" alt="My GitHub Stats"  />
-    
+###
 
-
-My name is **João Pedro Desidério**, but you can call me **JP**. I'm a Software Developer from Brazil. I've been working with **Vue.js**,  **JavaScript**, **Node** and **AWS**. Currently I'm learning **React** and **TypeScript**.
-
+<div align="center">
+My name is <b>João Pedro Desidério</b>, but you can call me <b>JP</b>. I'm a Software Developer from Brazil. I've been working with <b>Vue.js</b>, <b>JavaScript</b>, <b>Node</b> and <b>AWS</b>. Currently I'm learning <b>React</b> and <b>TypeScript</b>.
 </div>
 
 ###
 
-<div display="flex" align="left" width="500">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=false&username=jotapedeside" height="170" alt="My Languages Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jotapedeside" height="170" alt="My GitHub Stats"  />
+</div>
+
+###
+
+<div align="center" width="500">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
@@ -29,8 +32,5 @@ My name is **João Pedro Desidério**, but you can call me **JP**. I'm a Softwar
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
 
 ###
