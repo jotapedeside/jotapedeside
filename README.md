@@ -1,6 +1,6 @@
 <div align="center">
   <h1>jotapedeside</h1>
-  <h3>😎 Software Engineer & Music Lover, Brazil 🌎</h3><br>
+  <h3>🖥️ Software Engineer & Music Lover, Brazil 🌎</h3><br>
 </div>
 
 ###
